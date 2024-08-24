@@ -7,7 +7,7 @@ import serviceImg3 from "../assets/service3.webp"
 import serviceImg4 from "../assets/service4.webp"
 // Import Animation
 import { motion } from "framer-motion"
-import { fadeIn } from '../utils/AnimationVariants';
+import { fadeIn } from '../utils/animationVariants.js';
 
 const Services = () => {
   return (

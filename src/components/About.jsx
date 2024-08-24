@@ -6,7 +6,7 @@ import { IoIosClose } from "react-icons/io";
 import { IoArrowForwardCircleSharp } from "react-icons/io5";
 // Import Animation
 import { motion } from "framer-motion"
-import { fadeIn } from '../utils/AnimationVariants';
+import { fadeIn } from '../utils/animationVariants.js';
 
 const About = () => {
   const [isVideoPlaying, setIsVideoPlaying] = useState(false);

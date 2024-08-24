@@ -2,7 +2,7 @@ import React from 'react'
 
 // Import Animation
 import { motion } from "framer-motion"
-import { fadeIn } from '../utils/AnimationVariants';
+import { fadeIn } from '../utils/animationVariants.js';
 
 const WorkingStep = () => {
     return (

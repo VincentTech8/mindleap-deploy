@@ -30,3 +30,4 @@ Currently, two official plugins are available:
 3. CSS Box Model | [Link](https://www.geeksforgeeks.org/css-box-model/)
 4. react-tabs | [Link](https://www.npmjs.com/package/react-tabs)
 5. react-tabs CSS | [Link](https://github.com/reactjs/react-tabs/tree/main/style)
+6. Use **rafce** to create a new section template
